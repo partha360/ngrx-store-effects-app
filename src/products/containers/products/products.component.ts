@@ -6,6 +6,7 @@ import { Pizza } from '../../models/pizza.model';
 @Component({
   selector: 'products',
   styleUrls: ['products.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <div class="products">
       <div class="products__new">

@@ -51,36 +51,6 @@
   ],
   "pizzas": [
     {
-      "name": "Blazin' Inferno",
-      "toppings": [
-        {
-          "id": 10,
-          "name": "pepperoni"
-        },
-        {
-          "id": 9,
-          "name": "pepper"
-        },
-        {
-          "id": 3,
-          "name": "basil"
-        },
-        {
-          "id": 4,
-          "name": "chili"
-        },
-        {
-          "id": 7,
-          "name": "olive"
-        },
-        {
-          "id": 2,
-          "name": "bacon"
-        }
-      ],
-      "id": 1
-    },
-    {
       "name": "Seaside Surfin'",
       "toppings": [
         {
@@ -123,14 +93,74 @@
       "id": 2
     },
     {
-      "name": "Plain Ol' Pepperoni",
+      "name": "Tomatoinii Chilli",
       "toppings": [
         {
-          "id": 10,
-          "name": "pepperoni"
+          "id": 12,
+          "name": "tomato"
+        },
+        {
+          "id": 4,
+          "name": "chili"
         }
       ],
-      "id": 3
+      "id": 4
+    },
+    {
+      "name": "Tomatoinii Spicy",
+      "toppings": [
+        {
+          "id": 12,
+          "name": "tomato"
+        },
+        {
+          "id": 4,
+          "name": "chili"
+        },
+        {
+          "id": 9,
+          "name": "pepper"
+        },
+        {
+          "id": 8,
+          "name": "onion"
+        },
+        {
+          "id": 3,
+          "name": "basil"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "WOW Wow",
+      "toppings": [
+        {
+          "id": 5,
+          "name": "mozzarella"
+        },
+        {
+          "id": 11,
+          "name": "sweetcorn"
+        },
+        {
+          "id": 3,
+          "name": "basil"
+        },
+        {
+          "id": 4,
+          "name": "chili"
+        },
+        {
+          "id": 12,
+          "name": "tomato"
+        },
+        {
+          "id": 9,
+          "name": "pepper"
+        }
+      ],
+      "id": 6
     }
   ]
 }
